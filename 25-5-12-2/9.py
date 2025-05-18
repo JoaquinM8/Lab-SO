@@ -1,5 +1,5 @@
 c = int(input("Cantidad de números > "))
-men=103010203190
+men=9999999999999999999999999999999999999999
 may=0
 
 for i in range(c):
