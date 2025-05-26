@@ -9,4 +9,4 @@ promedio = sum(notas)/5
 if promedio > 7:
     print("El promedio es: ", promedio, "/ Aprobado")
 else:
-    print("El promedio no aprueba")
+    print("El promedio no aprueba")
