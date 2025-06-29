@@ -6,9 +6,9 @@ for i in range(d):
 
 for i in range(d):
     for j in range(d-1):   
-        if v[i] < v[i+1]:
-            m = v[i]
-            v[i] = v[i+1]
-            v[i+1] = m
-    
+        if v[j] < v[j+1]:
+            m = v[j]
+            v[j] = v[j+1]
+            v[j+1] = m
+
 print(v)
